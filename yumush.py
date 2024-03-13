@@ -1,0 +1,2 @@
+
+print('ikinji yumush')
